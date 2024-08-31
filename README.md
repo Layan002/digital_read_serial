@@ -1,5 +1,5 @@
 # Demo
-<vid src= "https://github.com/user-attachments/assets/846ceda0-384e-4262-bb10-13e77faba3d1" width= 600>
+<video src= "https://github.com/user-attachments/assets/846ceda0-384e-4262-bb10-13e77faba3d1" width= 600>
 
 
 # Diagram
