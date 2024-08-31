@@ -12,6 +12,7 @@ https://github.com/user-attachments/assets/e21a7b67-d082-4633-9046-3723c03b2637
 
 <img src= "https://github.com/user-attachments/assets/092f4cc1-342b-4563-80dd-b9d9c65965bd" width= 600>
 
+[tinker cad link](https://www.tinkercad.com/things/3waX3Slsq1a-push-button)
 
 # Schematic 
 
